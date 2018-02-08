@@ -1,0 +1,4 @@
+[2018-02-08 14:44:38][debug] DEBUG
+[2018-02-08 14:44:38][warn] WARN
+[2018-02-08 14:44:38][error] [,file:/Library/WebServer/Documents/test/logtest/logtest.php,line:16,function:ERROR]ERROR
+[2018-02-08 14:44:38][info] INFO
